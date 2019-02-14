@@ -88,11 +88,11 @@ Please enter  MJ-CBD   ID</span>
 
 
 Source content
->button 
+button 
  - Pop-up Generation input 
  - Enter card input
->form tag definition
+form tag definition
  -Main request variable -> input tag declares as hidden type
->Script source
+Script source
  -Window Size : Window pop-up
  - insert_form_data : when entering card number
