@@ -87,7 +87,7 @@ Please enter  MJ-CBD   ID</span>
     </script>
 
 
-•	Source content
+<Source content>
 >button 
  - Pop-up Generation input 
  - Enter card input
