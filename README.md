@@ -72,7 +72,8 @@ Related Source
         <meta http-equiv='Content-Type' content='text/html; charset=utf-8'>
         <script>
         function windowSize() 
-        {var myForm = document.cbd_pg_form; window.open("","cbd_pg_form","toolbar=no, width=700, height=680, directories=no, status=no,    scrollorbars=no,     resizable=no");
+        {var myForm = document.cbd_pg_form; window.open("","cbd_pg_form",
+        "toolbar=no, width=700, height=680, directories=no, status=no, scrollorbars=no, resizable=no");
       //myForm.action ="https://pg.mj-cbd.tech/?gap=pg/card_pg";
         myForm.action ="https://pg.goodpay.io/?gap=pg/card_pg";
         myForm.method="post";
