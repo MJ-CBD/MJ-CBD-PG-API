@@ -3,13 +3,13 @@
 # MJ-CBD-PG-API
 MJ-CBD PG APIs Source
 Public MJ-CBD API ver1.0 
-Overview
+
 API (Application Program Interface) is a protocol that is provided to disclose information to information users. 
 It is an interface that enables developers to utilize PG (Payment Gate) data in other systems. 
 MJ-CBD Wallet developers provide APIs such as API that Secret key can be confirmed with ID and Password and 
 API that can how to view order details through user ID and order number.
 
-Purpose
+
 In addition to providing web search results and user interface (UI), 
 We help users that they will be able to develop creative and diverse contents by utilizing published data.
 
@@ -39,7 +39,7 @@ Main request variable
 - delivery : delivery fee
 - pay_krw : pay information(KRW)
 - card_num : card number
--currency_type : currency type(KRW:won USD : dollors)
--shop_oder_no : affiliate’s item unique number
--return_url : After completing PG pay, Link to parent page when PG window off
+- currency_type : currency type(KRW:won USD : dollors)
+- shop_oder_no : affiliate’s item unique number
+- return_url : After completing PG pay, Link to parent page when PG window off
 
