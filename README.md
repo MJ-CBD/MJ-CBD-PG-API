@@ -45,7 +45,7 @@ Main request variable
 
 Related Source
 
-<!--버튼 html -->
+!--버튼 html --
 <div class="table-responsive text-center" style='padding:40px;'>
 <span style='color:#ff0000;font-weight:700;margin-right:15px;padding:10px;'>Please enter MJ-CBD ID</span>
 <input type="text" name="od_cbd_email" id="od_cbd_email" class="peps_input" required placeholder="MJ-CBD ID" onchange="insert_form_data(this.value);"required>
