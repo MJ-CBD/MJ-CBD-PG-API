@@ -82,6 +82,19 @@ Related Source
 
         function insert_form_data(data_abc) {$('#cbd_email').val(data_abc);}
     </script>
+    
+    
+ Source content
+ 
+        >button 
+        - Pop-up Generation input 
+        - Enter card input
+        >form tag definition
+        -Main request variable -> input tag declares as hidden type
+        >Script source
+        -Window Size : Window pop-up
+        - insert_form_data : when entering card number
+
 
         
 
