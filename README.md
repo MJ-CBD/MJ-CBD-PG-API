@@ -48,7 +48,8 @@ Related Source
         <!-- 버튼html-->
         <div class="table-responsive text-center" style='padding:40px;'>
         <span style='color:#ff0000;font-weight:700;margin-right:15px;padding:10px;'>Please enter MJ-CBD</span>
-        <input type="text" name="od_cbd_email" id="od_cbd_email" clasee="peps_input" required placeholder="MJ-CBD ID" onchange="insert_form_data(this.value);" required>
+        <input type="text" name="od_cbd_email" id="od_cbd_email" clasee="peps_input" required placeholder="MJ-CBD ID"
+        onchange="insert_form_data(this.value);" required>
         <input type="button" value="MJ-CBD Payment" id="btn_order2" onclick="windowSize()" class="peps_btn" style="display:''"></div>
 
 
